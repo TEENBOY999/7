@@ -1,0 +1,161 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.ota {
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+ grid-column-gap: 10px;
+gap: 1px;
+width: 700px;
+height: 440px;
+justify-content: center;
+margin-left: 250px;
+margin-top: 100px;
+background-color: grey;
+}
+.h1 {
+  color: white;
+  margin-top: 50px;
+  font-family: Montserrat;
+font-size: 48px;
+font-weight: 500;
+line-height: 58.51px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.box1 {
+display: grid;
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+.box2 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box3 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box4 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box5 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box6 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box7 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box8 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box9 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box10 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box11 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box12 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.box13 {
+    color: white;
+      background: rgba(31, 133, 255, 1);
+    width: 100px;
+    height: 100px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+}
+
+body {
+    background: rgba(31, 133, 255, 1);
+
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+.as {
+    margin-left: 50px;
+}
+
+.btn {
+    width:125px;
+height:  55px;
+margin-top: 50px;
+top: 152px;
+left: -92px;
+padding: 14px 30px 14px 30px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+justify: space-between;
+opacity: 0px;
+color: white;
+background: rgba(31, 133, 255, 1);
+border: 2px solid white;
+}
